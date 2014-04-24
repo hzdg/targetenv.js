@@ -1,0 +1,30 @@
+{
+  "name": "targetenv",
+  "version": "1.0.0",
+  "description": "What's the build target?",
+  "main": "lib/index.js",
+  "browser": "lib/index-browser.js",
+  "web": "lib/index-web.js",
+  "webpack": "lib/index-webpack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hzdg/targetenv.js.git"
+  },
+  "keywords": [
+    "environment",
+    "browserify",
+    "webpack"
+  ],
+  "author": {
+    "name": "Matthew Dapena-Tretter",
+    "email": "m@tthewwithanm.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hzdg/targetenv.js/issues"
+  },
+  "homepage": "https://github.com/hzdg/targetenv.js"
+}
